@@ -1,3 +1,2 @@
 #Fill in dependencies here
-request
-http
+urllib3
